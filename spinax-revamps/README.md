@@ -1,0 +1,54 @@
+
+## Bionicle Revamps Repo
+
+Google drive containing almost all bionicle sets + parts: https://drive.google.com/drive/folders/1IJyAHHGeeMkKCyhR39vl42MGvrDsQPxV
+
+# Loose goals
+ - Don't use non-technic pieces unless there are instances of it being used in the era this set was released.
+ - Try to use pieces from the original
+ - Try to use pieces and colors that are from that era of bionicle.
+ - Make it structurally sturdy.
+ - Avoid non-standard designs that wouldn't have realistically been used in that era.
+
+# Notes
+ - .io files are just .zip files. Git currently does not support tracking inside of zip files, and stud.io does not support opening the .zip file extension, so tracking individual files is not possible unfortunately (from what I can tell).
+
+# Parts on bricklink
+
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=57562#T=S&O={"ss":"US","iconly":0}
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=50926#T=S&O={"iconly":0}
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=43558#T=C
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=53562#T=S&O={%22iconly%22:0}
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=32489#T=S&O={%22iconly%22:0}
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=24191#T=S&O={%22iconly%22:0}
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=57571#T=S&C=66&O={%22color%22:66,%22iconly%22:0}
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=44142#T=C
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=44136#T=C
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=44139#T=C
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=45749#T=C
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=61810#T=C
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=61808#T=C&C=66
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=47337#T=C
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=41668#T=C
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=41672#T=C
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=32474#T=C
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=67695#T=C
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=50923#T=C
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=x1192px1#T=C
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=32235#T=C
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=32202#T=C
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=32201#T=C
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=32200#T=C
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=32199#T=C
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=32580#T=C
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=27965#T=C
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=57539#T=C
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=14301
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=50858#T=C
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=53566#T=A
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=53584#T=A
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=67697#T=A
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=50923#T=A
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=32506#T=A
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=89678#T=A
+https://www.bricklink.com/v2/catalog/catalogitem.page?P=60483#T=A
